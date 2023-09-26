@@ -26,7 +26,7 @@ If you'd like to follow the session interactively, ensure you have these tools i
 
 The slides accompanying the talk can be found in the repository at the following link:
 
-ADD SLIDES
+- [UnmaskingTheGodfather.pdf](https://github.com/LaurieWired/InfoSecWorld2023/blob/main/InfoSecWorld_UnmaskingGodfather.pdf)
 
 ---
 
@@ -34,7 +34,7 @@ ADD SLIDES
 
 My fully marked up Godfather Sample can be found at the following link:
 
-ADD LINK
+- [marked_up_godfather_jadx](https://github.com/LaurieWired/InfoSecWorld2023/blob/main/marked_up_godfather_a14aad1265eb3.jadx)
 
 ---
 
