@@ -1,5 +1,6 @@
 <div align="center">
 
+![godfather_art1](https://github.com/LaurieWired/InfoSecWorld2023/assets/123765654/2b569bb8-73ae-4cf3-9dab-ae77df9445f7)
 
 </div>
 
